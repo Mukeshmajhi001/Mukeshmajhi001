@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Animated Header with Wave SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=250&section=header&text=Mukesh%20Majhi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00d4ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=250&section=header&text=Mukesh%20Majhi&fontSize=65&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=00d4ff"/>
 
 <!-- Animated 3D Name Banner -->
 <a href="https://github.com/Mukeshmajhi001">
@@ -38,7 +38,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  🌏  Location    →  Biratnagar, Nepal 🇳🇵               ║
+║  🌏  Location    →  Biratnagar, Nepal 🇳🇵                 ║
 ║  💻  Focus       →  Full Stack Web Development           ║
 ║  🎯  Status      →  Open to Opportunities                ║
 ║  🚀  Currently   →  Building awesome web projects        ║
