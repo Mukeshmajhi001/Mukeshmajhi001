@@ -64,7 +64,9 @@
 <a href="https://github.com/Mukeshmajhi001">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshmajhi001&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ff6b35&area=true&hide_border=false&border_color=00d4ff&area_color=7c3aed20&custom_title=🔥%20Mukesh's%20Contribution%20Galaxy&radius=16" alt="Activity Graph" width="95%"/>
 </a>
-
+<a href="https://github.com/Mukeshmajhi001">
+<img src="https://ghchart.rshah.org/Mukeshmajhi001" width="95%" />
+</a>
 </div>
 
 ---
